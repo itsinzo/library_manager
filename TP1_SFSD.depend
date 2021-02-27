@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1614263587 source:i:\c projetcs\tp1_sfsd\main.c
+	"machine_abs.h"
+	"fonctions_tp.h"
+	"affichage.h"
+
+1614263422 i:\c projetcs\tp1_sfsd\machine_abs.h
+	<stdio.h>
+	<stdlib.h>
+
+1614262873 i:\c projetcs\tp1_sfsd\fonctions_tp.h
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	"machine_abs.h"
+	"affichage.h"
+
+1614263526 i:\c projetcs\tp1_sfsd\affichage.h
+	<windows.h>
+
